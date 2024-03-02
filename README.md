@@ -1,1 +1,4 @@
-# scratch_project_cs50x_w0
+My scratch project for cs50x,
+frogger inspired game,
+Bugger,
+use arrow keys to move.
